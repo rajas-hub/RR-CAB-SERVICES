@@ -13,824 +13,6 @@ body {
   background-color: #fff;
 }
 
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.39 */
-/* START */
-/* .container { */
-/* max-width: 1170px; */
-/* margin: auto; */
-/* } */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.39 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.38 */
-/* START */
-/* #i1 { */
-/* color: white; */
-/* text-align: center; */
-/* padding-bottom: 35px; */
-/* } */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.38 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.29 */
-/* START */
-/*  */
-/* .row { */
-/* display: flex; */
-/* flex-wrap: wrap; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.29 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.29 */
-/* START */
-/* ul { */
-/* list-style: none; */
-/* } */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.29 */
-
-h4 {
-  position: relative;
-  padding: 0 0 15px;
-  margin-bottom: 10px;
-}
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.37 */
-/* START */
-/*  */
-/* h4:after { */
-/* content: ""; */
-/* position: absolute; */
-/* right: 100%; */
-/* left: 12%; */
-/* bottom: 0; */
-/* transform: translateX(-50%); */
-/* height: 4px; */
-/* width: 75px; */
-/* border-radius: 2px; */
-/* background-color: orange; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.37 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.41 */
-/* START */
-/*  */
-/* .logo { */
-/* float: left; */
-/* margin-left: 3.4722%; */
-/* width: fit-content; */
-/* margin-right: 15%; */
-/* padding: 0%; */
-/* } */
-/*  */
-/* #logoimg { */
-/* width: 50px; */
-/* height: 50px; */
-/* border-radius: 75%; */
-/* padding: 0%; */
-/* border: 3px solid orange; */
-/* } */
-/*  */
-/* h4, */
-/* a { */
-/* color: black; */
-/* } */
-/*  */
-/* .pagelink { */
-/* float: right; */
-/* margin-right: 50px; */
-/* margin-top: 1%; */
-/* margin-bottom: 1%; */
-/* } */
-/*  */
-/* #bgi { */
-/* width: 100%; */
-/* height: 500 px; */
-/* } */
-/*  */
-/* .reasons { */
-/* float: left; */
-/* } */
-/*  */
-/* .prodri, */
-/* .ontimeserv, */
-/* .custsupport, */
-/* .onewaycabdiv, */
-/* .outstationdiv, */
-/* .localdiv { */
-/* float: left; */
-/* width: 33%; */
-/* } */
-/*  */
-/* .servicecard { */
-/* float: left; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.41 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.10 */
-/* START */
-/*  */
-/* @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700); */
-/*  */
-/* button { */
-  /* overflow: visible; */
-/* } */
-/*  */
-/* button, */
-/* select { */
-  /* text-transform: none; */
-/* } */
-/*  */
-/* button, */
-/* input, */
-/* select, */
-/* textarea { */
-  /* color: #5a5a5a; */
-  /* font: inherit; */
-  /* margin: 0; */
-/* } */
-/*  */
-/* input { */
-  /* line-height: normal; */
-/* } */
-/*  */
-/* textarea { */
-  /* overflow: auto; */
-/* } */
-/*  */
-/* #container { */
-  /* border: solid 3px #474544; */
-  /* max-width: 768px; */
-  /* margin: 60px auto; */
-/* } */
-/*  */
-/* form { */
-  /* padding: 37.5px; */
-  /* margin: 50px 0; */
-/* } */
-/*  */
-/* h1 { */
-  /* color: rgb(226, 226, 226); */
-  /* font-size: 2px; */
-  /* font-weight: 700; */
-  /* letter-spacing: 7px; */
-  /* text-align: center; */
-  /* text-transform: uppercase; */
-/* } */
-/*  */
-/* .underline { */
-  /* border-bottom: solid 2px rgb(226, 226, 226); */
-  /* margin: -0.512em auto; */
-  /* width: 80px; */
-/* } */
-/*  */
-/* .icon_wrapper { */
-  /* margin: 50px auto 0; */
-  /* width: 100%; */
-/* } */
-/*  */
-/* .icon { */
-  /* display: block; */
-  /* fill: rgb(226, 226, 226) 4; */
-  /* height: 50px; */
-  /* margin: 0 auto; */
-  /* width: 50px; */
-/* } */
-/*  */
-/* .email { */
-  /* float: right; */
-  /* width: 45%; */
-/* } */
-/*  */
-/* input[type="text"], */
-/* [type="email"], */
-/* select, */
-/* textarea { */
-  /* background: none; */
-  /* border: none; */
-  /* border-bottom: solid 2px #474544; */
-  /* color: #474544; */
-  /* font-size: 1em; */
-  /* font-weight: 400; */
-  /* letter-spacing: 1px; */
-  /* margin: 0em 0 1.875em 0; */
-  /* padding: 0 0 0.875em 0; */
-  /* text-transform: uppercase; */
-  /* width: 100%; */
-  /* -webkit-box-sizing: border-box; */
-  /* -moz-box-sizing: border-box; */
-  /* -ms-box-sizing: border-box; */
-  /* -o-box-sizing: border-box; */
-  /* box-sizing: border-box; */
-  /* -webkit-transition: all 0.3s; */
-  /* -moz-transition: all 0.3s; */
-  /* -ms-transition: all 0.3s; */
-  /* -o-transition: all 0.3s; */
-  /* transition: all 0.3s; */
-/* } */
-/*  */
-/* input[type="text"]:focus, */
-/* [type="email"]:focus, */
-/* textarea:focus { */
-  /* outline: none; */
-  /* padding: 0 0 0.875em 0; */
-/* } */
-/*  */
-/* .message { */
-  /* float: none; */
-/* } */
-/*  */
-/* .name { */
-  /* float: left; */
-  /* width: 45%; */
-/* } */
-/*  */
-/* select { */
-  /* background: url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png") no-repeat right; */
-  /* outline: none; */
-  /* -moz-appearance: none; */
-  /* -webkit-appearance: none; */
-/* } */
-/*  */
-/* select::-ms-expand { */
-  /* display: none; */
-/* } */
-/*  */
-/* .subject { */
-  /* width: 100%; */
-/* } */
-/*  */
-/* .telephone { */
-  /* width: 100%; */
-/* } */
-/*  */
-/* textarea { */
-  /* line-height: 150%; */
-  /* height: 150px; */
-  /* resize: none; */
-  /* width: 100%; */
-/* } */
-/*  */
-/* ::-webkit-input-placeholder { */
-  /* color: #474544; */
-/* } */
-/*  */
-/* :-moz-placeholder { */
-  /* color: #474544; */
-  /* opacity: 1; */
-/* } */
-/*  */
-/* ::-moz-placeholder { */
-  /* color: #474544; */
-  /* opacity: 1; */
-/* } */
-/*  */
-/* :-ms-input-placeholder { */
-  /* color: #474544; */
-/* } */
-/*  */
-/* #form_button { */
-  /* background: none; */
-  /* border: solid 2px #474544; */
-  /* color: #474544; */
-  /* cursor: pointer; */
-  /* display: inline-block; */
-  /* font-family: "Helvetica", Arial, sans-serif; */
-  /* font-size: 0.875em; */
-  /* font-weight: bold; */
-  /* outline: none; */
-  /* padding: 20px 35px; */
-  /* text-transform: uppercase; */
-  /* -webkit-transition: all 0.3s; */
-  /* -moz-transition: all 0.3s; */
-  /* -ms-transition: all 0.3s; */
-  /* -o-transition: all 0.3s; */
-  /* transition: all 0.3s; */
-/* } */
-/*  */
-/* #form_button:hover { */
-  /* background: #474544; */
-  /* color: #f2f3eb; */
-/* } */
-/*  */
-/* @media screen and (max-width: 768px) { */
-  /* #container { */
-    /* margin: 20px auto; */
-    /* width: 95%; */
-  /* } */
-/* } */
-/*  */
-/* @media screen and (max-width: 480px) { */
-  /* h1 { */
-    /* font-size: 26px; */
-  /* } */
-/*  */
-  /* .underline { */
-    /* wi/dth: 68px; */
-  /* } */
-/*  */
-  /* #form_button { */
-    /* padding: 15px 25px; */
-  /* } */
-/* } */
-/*  */
-/* @media screen and (max-width: 420px) { */
-  /* h1 { */
-    /* font-size: 18px; */
-  /* } */
-/*  */
-  /* .icon { */
-    /* height: 35px; */
-    /* width: 35px; */
-  /* } */
-/*  */
-  /* .underline { */
-    /* width: 53px; */
-  /* } */
-/*  */
-  /* input[type="text"], */
-  /* [type="email"], */
-  /* select, */
-  /* textarea { */
-    /* font-size: 0.875em; */
-  /* } */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.10 */
-
-/* Rajas navigation code*/
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.16 */
-/* START */
-/*  */
-/* * { */
-  /* margin: 0px; */
-  /* padding: 0px; */
-  /* padding-top: auto; */
-  /* box-sizing: border-box; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.16 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.17 */
-/* START */
-/*  */
-/* nav { */
-  /* display: flex; */
-  /* justify-content: space-around; */
-  /* align-content: center; */
-  /* min-height: 8vh; */
-  /* background-color: #ffc300; */
-  /* font-family: "Poppins", sans-serif; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.17 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.36 */
-/* START */
-/* .logo { */
-/* color: rgb(226, 226, 226); */
-/* letter-spacing: 5px; */
-/* font-size: 20px; */
-/* } */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.36 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.18 */
-/* START */
-/*  */
-/* .nav-links { */
-  /* display: flex; */
-  /* justify-content: space-around; */
-  /* width: 30%; */
-/* } */
-/*  */
-/* .nav-links li { */
-  /* list-style: none; */
-/* } */
-/*  */
-/* .nav-links a { */
-  /* color: rgb(226, 226, 226); */
-  /* text-decoration: none; */
-  /* letter-spacing: 3px; */
-  /* font-weight: bold; */
-  /* font-size: 14px; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.18 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.20 */
-/* START */
-/*  */
-/* .burger div { */
-  /* width: 25px; */
-  /* height: 3px; */
-  /* background-color: rgb(226, 226, 226); */
-  /* margin: 5px; */
-  /* transition: all 0.3s ease; */
-/* } */
-/*  */
-/* .burger { */
-  /* display: none; */
-  /* cursor: pointer; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 19.18 */
-
-@media screen and (max-width: 1024px) {
-  .nav-links {
-    display: flex;
-    justify-content: space-around;
-    width: 60%;
-  }
-
-  @media screen and (max-width: 768px) {
-    body {
-      overflow-x: hidden;
-    }
-  }
-
-  .nav-links {
-    position: absolute;
-    right: 0px;
-    height: 92vh;
-    top: 8vh;
-    background-color: #ffc300;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 50%;
-    transform: translate(100%);
-    transition: transform 0.5s ease-in;
-  }
-
-  .nav-links li {
-    opacity: 0;
-  }
-
-  .burger {
-    display: block;
-  }
-}
-
-.nav-active {
-  transform: translate(0%);
-}
-
-@keyframes navLinkFade {
-  from {
-    opacity: 0;
-    transform: translate(50px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate(0px);
-  }
-}
-
-.nav-links li {
-  list-style: none;
-}
-
-.nav-links a {
-  text-decoration: none;
-  letter-spacing: 3px;
-  font-weight: bold;
-  font-size: 14px;
-  color: black;
-}
-
-.burger div {
-  width: 25px;
-  height: 3px;
-  background-color: rgb(226, 226, 226);
-  margin: 5px;
-  transition: all 0.3s ease;
-}
-
-.burger {
-  display: none;
-  cursor: pointer;
-}
-
-@media screen and (max-width: 1024px) {
-  .nav-links {
-    display: flex;
-    justify-content: space-around;
-    width: 60%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  body {
-    overflow-x: hidden;
-  }
-
-  .nav-links {
-    position: absolute;
-    right: 0px;
-    height: 92vh;
-    top: 8vh;
-    background-color: #ffc300;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 50%;
-    transform: translate(100%);
-    transition: transform 0.5s ease-in;
-  }
-
-  .nav-links li {
-    opacity: 0;
-  }
-
-  .burger {
-    display: block;
-  }
-}
-
-.nav-active {
-  transform: translate(0%);
-}
-
-@keyframes navLinkFade {
-  from {
-    opacity: 0;
-    transform: translate(50px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate(0px);
-  }
-}
-
-.toggle .line1 {
-  transform: rotate(-45deg) translate(-5px, 6px);
-}
-
-.toggle .line2 {
-  opacity: 0;
-}
-
-.toggle .line3 {
-  transform: rotate(45deg) translate(-5px, -6px);
-}
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.50 */
-/* START */
-/*  */
-/*contact form*/
-/*  */
-/* .containercon { */
-/* position: relative; */
-/* width: 100%; */
-/* height: 100%; */
-/* display: flex; */
-/* justify-content: center; */
-/* align-items: center; */
-/* padding: 20px 100px; */
-/* background-color: #303438; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.50 */
-
-.container:after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  background-color: orange;
-  background: url("img/bg.jpg") no-repeat center;
-  background-size: cover;
-  filter: blur(50px);
-  z-index: -1;
-}
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.50 */
-/* START */
-/*  */
-/* .contact-box { */
-/* max-width: 850px; */
-/* display: grid; */
-/* grid-template-columns: repeat(2, 1fr); */
-/* justify-content: center; */
-/* align-items: center; */
-/* text-align: center; */
-/* background-color: orange; */
-/* box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19); */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.50 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.52 */
-/* START */
-/*  */
-/* .left { */
-/* background: url("images\contactimg.jpg") repeatno-repeat center; */
-/* background-size: cover; */
-/* height: 100%; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.52 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.53 */
-/* START */
-/*  */
-/* .right { */
-/* padding: 25px 40px; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.53 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.54 */
-/* START */
-/*  */
-/* h2 { */
-/* position: relative; */
-/* padding: 0 0 10px; */
-/* margin-bottom: 10px; */
-/* } */
-/*  */
-/* h2:after { */
-/* content: ""; */
-/* position: absolute; */
-/* left: 50%; */
-/* bottom: 0; */
-/* transform: translateX(-50%); */
-/* height: 4px; */
-/* width: 50px; */
-/* border-radius: 2px; */
-/* background-color: #2ecc71; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.54 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.55 */
-/* START */
-/*  */
-/* .field { */
-/* width: 100%; */
-/* border: 2px solid rgba(0, 0, 0, 0); */
-/* outline: none; */
-/* background-color: rgba(230, 230, 230, 0.6); */
-/* padding: 0.5rem 1rem; */
-/* font-size: 1.1rem; */
-/* margin-bottom: 22px; */
-/* transition: 0.3s; */
-/* } */
-/*  */
-/* .field:hover { */
-/* background-color: rgba(0, 0, 0, 0.1); */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.55 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.56 */
-/* START */
-/*  */
-/* textarea { */
-/* min-height: 150px; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.56 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.57 */
-/* START */
-/*  */
-/* .btn { */
-/* width: 100%; */
-/* padding: 0.5rem 1rem; */
-/* background-color: #2ecc71; */
-/* color: #fff; */
-/* font-size: 1.1rem; */
-/* border: none; */
-/* outline: none; */
-/* cursor: pointer; */
-/* transition: 0.3s; */
-/* } */
-/*  */
-/* .btn:hover { */
-/* background-color: #27ae60; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.57 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.57 */
-/* START */
-/*  */
-/* .field:focus { */
-/* border: 2px solid rgba(30, 85, 250, 0.47); */
-/* background-color: #fff; */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.57 */
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.59 */
-/* START */
-/*  */
-/* @media screen and (max-width: 880px) { */
-/* .contact-box { */
-/* grid-template-columns: 1fr; */
-/* } */
-/*  */
-/* .left { */
-/* height: 200px; */
-/* } */
-/* } */
-/*  */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.59 */
-
-/* COMMENTED BY RUSHABH GALA ON 03.09.2021 18.23 */
-/* START */
-/* body { */
-/* font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", */
-/* Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, */
-/* "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", */
-/* "Noto Color Emoji"; */
-/* background-color: #fff; */
-/* height: 200vh; */
-/* position: relative; */
-/* } */
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.23 */
-
-body:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
-  -webkit-transition: 0.3s all ease;
-  -o-transition: 0.3s all ease;
-  transition: 0.3s all ease;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 1;
-}
-
-body.offcanvas-menu:before {
-  opacity: 1;
-  z-index: 1002;
-  visibility: visible;
-}
-
-p {
-  color: #b3b3b3;
-  font-weight: 300;
-}
-
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.31 */
-/* START */
-
-/* h1, */
-/* h2, */
-/* h3, */
-/* h4, */
-/* h5, */
-/* h6, */
-/* .h1, */
-/* .h2, */
-/* .h3, */
-/* .h4, */
-/* .h5, */
-/* .h6 { */
-/* font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", */
-/* Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, */
-/* "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", */
-/* "Noto Color Emoji"; */
-/* color: rgb(255, 255, 255); */
-/* } */
-
-/* END */
-/* COMMENTED BY RUSHABH ON 03.09.2021 18.31 */
-
 a {
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
@@ -913,6 +95,7 @@ header .navbar .nav-link {
   outline: none !important;
   font-size: 1rem;
   color: rgba(255, 255, 255, 0.8) !important;
+  text-shadow: 0 0 3px #202020, 0 0 5px #202020;
 }
 
 @media (max-width: 1199.98px) {
@@ -923,6 +106,7 @@ header .navbar .nav-link {
 
 header .navbar .nav-link.active {
   color: #fff !important;
+  text-shadow: 0 0 3px #202020, 0 0 5px #202020;
 }
 
 header .navbar .dropdown-menu {
@@ -1099,8 +283,7 @@ ul {
 /* END */
 /* COMMENTED BY RUSHABH ON 03.09.2021 18.33 */
 
-
-h4:after {
+.FooterH4:after {
   content: "";
   position: absolute;
   right: 61%;
@@ -1151,18 +334,18 @@ nav {
   font-size: 14px;
 }
 
-.burger div {
-  width: 25px;
-  height: 3px;
-  background-color: rgb(226, 226, 226);
-  margin: 5px;
-  transition: all 0.3s ease;
-}
+/* .burger div { */
+/* width: 25px; */
+/* height: 3px; */
+/* background-color: rgb(226, 226, 226); */
+/* margin: 5px; */
+/* transition: all 0.3s ease; */
+/* } */
 
-.burger {
-  display: none;
-  cursor: pointer;
-}
+/* .burger { */
+/* display: none; */
+/* cursor: pointer; */
+/* } */
 
 @media screen and (max-width: 1024px) {
   .nav-links {
@@ -1306,17 +489,17 @@ nav {
 }
 
 /*contact form*/
-.containercon {
+/* .containercon {
   position: relative;
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px 100px;
-  background-color: #303438;
-}
-
+  padding: 20px 100px; */
+/* background-color: #303438; */
+/* } */
+/* 
 .contact-box {
   max-width: 850px;
   display: grid;
@@ -1326,10 +509,17 @@ nav {
   text-align: center;
   background-color: orange;
   box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
-}
+} */
 
-.left {
-  background: url("images/contactimg.jpg") no-repeat center;
+/* .left { */
+/* background: url("images/contactimg.jpg") no-repeat center; */
+/* background-size: cover; */
+/* height: 100%; */
+/* } */
+/* 
+.left img {
+  width: 500px;
+  height: 500px;
   background-size: cover;
   height: 100%;
 }
@@ -1404,19 +594,7 @@ textarea {
   .left {
     height: 200px;
   }
-}
-
-/*
-      FOR CARDS
-      */
-.left-side-box {
-  width: 68%;
-  padding-right: 14px;
-  position: relative;
-  color: white;
-  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
-    -1px -1px 0 #000;
-}
+} */
 
 /* RUSHABH GALA CARDS CSS  */
 /* START OF CARDS CSS BY RUSHABH GALA */
@@ -1519,11 +697,11 @@ a:focus {
   -moz-transition-timing-function: ease-in-out;
   -webkit-transition-timing-function: ease-in-out;
   -o-transition-timing-function: ease-in-out;
-  transition-duration: .2s;
-  -ms-transition-duration: .2s;
-  -moz-transition-duration: .2s;
-  -webkit-transition-duration: .2s;
-  -o-transition-duration: .2s;
+  transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
 }
 
 span,
@@ -1552,7 +730,7 @@ a:hover {
 }
 
 .section-head h4:before {
-  content: '';
+  content: "";
   width: 60px;
   height: 3px;
   background: #f91942;
@@ -1566,7 +744,7 @@ a:hover {
 .section-head h4 span {
   font-weight: 700;
   padding-bottom: 5px;
-  color: #2f2f2f
+  color: #2f2f2f;
 }
 
 .item {
@@ -1578,14 +756,14 @@ a:hover {
   border-radius: 20px;
   border: 5px solid rgba(0, 0, 0, 0.07);
   margin-bottom: 30px;
-  -webkit-transition: all .5s ease 0;
+  -webkit-transition: all 0.5s ease 0;
   transition: all 0.5s ease 0s;
 }
 
 .item:hover {
   background: #f91942;
   box-shadow: 0 8px 20px 0px rgba(0, 0, 0, 0.2);
-  -webkit-transition: all .5s ease 0;
+  -webkit-transition: all 0.5s ease 0;
   transition: all 0.5s ease 0s;
 }
 
@@ -1593,15 +771,15 @@ a:hover {
 .item:hover span.icon {
   background: #fff;
   border-radius: 10px;
-  -webkit-transition: all .5s ease 0;
+  -webkit-transition: all 0.5s ease 0;
   transition: all 0.5s ease 0s;
 }
 
 .item:hover h6,
 .item:hover p {
   color: #fff;
-  -webkit-transition: all .5s ease 0;
-  transition: all .5s ease 0;
+  -webkit-transition: all 0.5s ease 0;
+  transition: all 0.5s ease 0;
 }
 
 .item .icon {
@@ -1615,33 +793,33 @@ a:hover {
 }
 
 .item .feature_box_col_one {
-  background: rgba(247, 198, 5, 0.20);
-  color: #f91942
+  background: rgba(247, 198, 5, 0.2);
+  color: #f91942;
 }
 
 .item .feature_box_col_two {
   background: rgba(255, 77, 28, 0.15);
-  color: #f91942
+  color: #f91942;
 }
 
 .item .feature_box_col_three {
   background: rgba(0, 147, 38, 0.15);
-  color: #f91942
+  color: #f91942;
 }
 
 .item .feature_box_col_four {
   background: rgba(0, 108, 255, 0.15);
-  color: #f91942
+  color: #f91942;
 }
 
 .item .feature_box_col_five {
   background: rgba(146, 39, 255, 0.15);
-  color: #f91942
+  color: #f91942;
 }
 
 .item .feature_box_col_six {
   background: rgba(23, 39, 246, 0.15);
-  color: #f91942
+  color: #f91942;
 }
 
 .item p {
@@ -1657,18 +835,163 @@ a:hover {
 /* RUSHABH GALA */
 /* END OF WCU CSS */
 
-/* RAJAS */
-/* STICKY NAV BAR */
-/* START */
-/*sticky navbar*/
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
 
-.sticky + .content {
-  padding-top: 60px;
-}
-/* END */
-/* RAJAS */
+
+
+
+
+
+
+
+/* 
+
+
+<!--doctype html-->
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Quicksand:400,600,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="fonts/icomoon/style.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <!-- <link rel="stylesheet" href="WCUStyle.css"> -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script src="js\main.js"></script>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Form</title>
+    <!--link-stylesheet----------->
+    <link rel="stylesheet" type="text/css" href="contactmap.css" />
+    <!--using-fontAwesome------------>
+    <script
+      src="https://kit.fontawesome.com/c8e4d183c2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header role="banner">
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">RR CAB SERVICES</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarsExample05"
+            aria-controls="navbarsExample05"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#About_Us">About Us</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle"
+                  href="#"
+                  id="dropdown04"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  >Services</a
+                >
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="#">Hatchbacks</a>
+                  <a class="dropdown-item" href="#"
+                    >Sedans &amp; Primium Sedans</a
+                  >
+                  <a class="dropdown-item" href="#"
+                    >SUV'S &amp;... Many More
+                  </a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Testimonials</a>
+              </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item cta-btn">
+                <a class="nav-link" href="contactmap.html">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->
+
+    <!--contact-form-container------------------->
+    <section id="contact">
+      <!--contact-box------------->
+      <div class="contact-box">
+        <!--heading---------->
+        <div class="c-heading">
+          <h1>Get In Touch</h1>
+          <p>Call Or Email Us Regarding Question Or Issues</p>
+        </div>
+        <!--inputs------------------>
+        <div class="c-inputs">
+          <form>
+            <input type="text" placeholder="Full Name" />
+            <input type="email" placeholder="Example@gmail.com" />
+            <textarea name="message" placeholder="Write Message"></textarea>
+            <!--sumbit-btn----------->
+            <button>SEND</button>
+          </form>
+        </div>
+      </div>
+      <!--map------------------->
+      <div class="map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1891.5416342628496!2d73.84101675805209!3d18.525138896851548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDMxJzMwLjUiTiA3M8KwNTAnMzEuNiJF!5e0!3m2!1sen!2sin!4v1630737103184!5m2!1sen!2sin"
+          width="600"
+          height="450"
+          style="border: 0"
+          allowfullscreen=""
+          loading="lazy"
+        ></iframe>
+      </div>
+    </section>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+*/
