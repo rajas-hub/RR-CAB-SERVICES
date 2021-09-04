@@ -1656,3 +1656,19 @@ a:hover {
 
 /* RUSHABH GALA */
 /* END OF WCU CSS */
+
+/* RAJAS */
+/* STICKY NAV BAR */
+/* START */
+/*sticky navbar*/
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+/* END */
+/* RAJAS */
